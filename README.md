@@ -3,4 +3,6 @@ A fir filter implementation in VHDL (std version + unfolded version + pipelined 
 
 THD (Total Harmonic Distortion) < -30dB
 
-More details in Report.pdf
+More details in "Report.pdf"
+
+Academic Year : 2023
